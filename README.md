@@ -1,7 +1,7 @@
 # Operating-System-Projects
 - [Operating System Projects:](#projects)
-    - *1.Socket Programming*
-    - *2.MapReduce*
+    - [*1.Socket Programming*](#socket-programming)
+    - [*2.MapReduce*](#mapreduce)
 ## Projects
 
 ### Socket Programming {#socket-programming}
