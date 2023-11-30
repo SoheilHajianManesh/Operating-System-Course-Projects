@@ -1,9 +1,9 @@
 # Operating-System-Projects
 - Operating System Projects:
-    - **Socket Programming**
+    - **1.Socket Programming**
           Description for Socket Programming project goes here.
 
-    - **MapReduce**
+    - **2.MapReduce**
           Description for MapReduce project goes here.
 ## Projects
 
