@@ -6,8 +6,8 @@
 
 ### Socket Programming {#socket-programming}
 
-A buyer and a seller are implemented. The seller can add an advertisement by broadcasting it, the buyer can connect to the seller using TCP protocol with the seller's port number which is broadcasted by the seller. The buyer can then send an offer to the seller. If the offer is accepted, the SOLD message is broadcasted by the seller and the buyer can disconnect from the seller. Otherwise, the AVAILABLE message is broadcasted by the seller and the buyer can send another offer.
+A restaurant,a customer and a supplier are implementer.Restaurant inform everyone their opening & closing by broadcasting it,Costumers can see list of restaurants and their TCP port number and connect to a restaurant using TCP protocol with the restaurant's port number. They can then communicate each other on a socket.Restaurants can also see list of suppliers and their TCP port number and connect to a supplier using TCP protocol with the supplier's port number and order ingredients to supplier.List of foods with their ingredients are stored in a json file.
 
 ### MapReduce {#mapreduce}
 
-A MapReduce framework is implemented in order to count the number of books in each genre. The genres are stored in a file called genres.csv and the input files are stored in part#.csv files.
+A MapReduce framework is implemented in order to زalculate the amount of water, electricity and gas consumption of different buildings in different months.Each building has a folder that contains three .csv file.Information about each resource comsumption are stored in .csv file.
