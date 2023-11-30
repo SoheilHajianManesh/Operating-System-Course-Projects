@@ -1,2 +1,4 @@
 # Operating-System-Projects
-Operating System Projects; Fall02
+## Operating System Projects:
+- 1. Socket Programming
+- 2. MapReduce
